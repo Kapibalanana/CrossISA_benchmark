@@ -1,0 +1,402 @@
+[
+    {
+        "repository_url": "https://github.com/svaarala/duktape",
+        "pr_url": "https://github.com/svaarala/duktape/pull/2559"
+    },
+    {
+        "repository_url": "https://github.com/krb5/krb5",
+        "pr_url": "https://github.com/krb5/krb5/pull/1325"
+    },
+    {
+        "repository_url": "https://github.com/monero-project/monero",
+        "pr_url": "https://github.com/monero-project/monero/pull/9114"
+    },
+    {
+        "repository_url": "https://github.com/openalpr/openalpr",
+        "pr_url": "https://github.com/openalpr/openalpr/pull/984"
+    },
+    {
+        "repository_url": "https://github.com/ares-emulator/ares",
+        "pr_url": "https://github.com/ares-emulator/ares/pull/1356"
+    },
+    {
+        "repository_url": "https://github.com/khizmax/libcds",
+        "pr_url": "https://github.com/khizmax/libcds/pull/183"
+    },
+    {
+        "repository_url": "https://github.com/virt-manager/virt-manager",
+        "pr_url": "https://github.com/virt-manager/virt-manager/pull/600"
+    },
+    {
+        "repository_url": "https://github.com/Tencent/rapidjson",
+        "pr_url": "https://github.com/Tencent/rapidjson/pull/2186"
+    },
+    {
+        "repository_url": "https://github.com/helm/helm",
+        "pr_url": "https://github.com/helm/helm/pull/12708"
+    },
+    {
+        "repository_url": "https://github.com/kernelslacker/trinity",
+        "pr_url": "https://github.com/kernelslacker/trinity/pull/46"
+    },
+    {
+        "repository_url": "https://github.com/baidu/sofa-pbrpc",
+        "pr_url": "https://github.com/baidu/sofa-pbrpc/pull/247"
+    },
+    {
+        "repository_url": "https://github.com/questdb/questdb",
+        "pr_url": "https://github.com/questdb/questdb/pull/4072"
+    },
+    {
+        "repository_url": "https://github.com/google/leveldb",
+        "pr_url": "https://github.com/chirino/leveldb/pull/7"
+    },
+    {
+        "repository_url": "https://github.com/numpy/numpy",
+        "pr_url": "https://github.com/numpy/numpy/pull/25215"
+    },
+    {
+        "repository_url": "https://github.com/openresty/luajit2",
+        "pr_url": "https://github.com/openresty/luajit2/pull/187"
+    },
+    {
+        "repository_url": "https://github.com/libffi/libffi",
+        "pr_url": "https://github.com/libffi/libffi/pull/678"
+    },
+    {
+        "repository_url": "https://github.com/containerd/nerdctl",
+        "pr_url": "https://github.com/containerd/nerdctl/pull/2533"
+    },
+    {
+        "repository_url": "https://github.com/microsoft/snmalloc",
+        "pr_url": "https://github.com/microsoft/snmalloc/pull/553"
+    },
+    {
+        "repository_url": "https://github.com/P-H-C/phc-winner-argon2",
+        "pr_url": "https://github.com/P-H-C/phc-winner-argon2/pull/349"
+    },
+    {
+        "repository_url": "https://github.com/openembedded/openembedded-core",
+        "pr_url": "https://github.com/openembedded/openembedded-core/pull/86"
+    },
+    {
+        "repository_url": "https://github.com/creytiv/re",
+        "pr_url": "https://github.com/creytiv/re/pull/259"
+    },
+    {
+        "repository_url": "https://github.com/opencontainers/runtime-spec",
+        "pr_url": "https://github.com/opencontainers/runtime-spec/pull/1187"
+    },
+    {
+        "repository_url": "https://github.com/tbuktu/libntru",
+        "pr_url": "https://github.com/tbuktu/libntru/pull/55"
+    },
+    {
+        "repository_url": "https://github.com/unicorn-engine/unicorn",
+        "pr_url": "https://github.com/unicorn-engine/unicorn/pull/1903"
+    },
+    {
+        "repository_url": "https://github.com/NetHack/NetHack",
+        "pr_url": "https://github.com/NetHack/NetHack/pull/639"
+    },
+    {
+        "repository_url": "https://github.com/Tencent/ncnn",
+        "pr_url": "https://github.com/Tencent/ncnn/pull/4242"
+    },
+    {
+        "repository_url": "https://github.com/fwupd/fwupd",
+        "pr_url": "https://github.com/fwupd/fwupd/pull/6597"
+    },
+    {
+        "repository_url": "https://github.com/xbmc/inputstream.adaptive",
+        "pr_url": "https://github.com/xbmc/inputstream.adaptive/pull/1451"
+    },
+    {
+        "repository_url": "https://github.com/moby/moby",
+        "pr_url": "https://github.com/moby/moby/pull/45302"
+    },
+    {
+        "repository_url": "https://github.com/uclouvain/openjpeg",
+        "pr_url": "https://github.com/uclouvain/openjpeg/pull/1458"
+    },
+    {
+        "repository_url": "https://github.com/sunpinyin/sunpinyin",
+        "pr_url": "https://github.com/sunpinyin/sunpinyin/pull/140"
+    },
+    {
+        "repository_url": "https://github.com/opencontainers/runtime-tools",
+        "pr_url": "https://github.com/opencontainers/runtime-tools/pull/765"
+    },
+    {
+        "repository_url": "https://github.com/openssl/openssl",
+        "pr_url": "https://github.com/openssl/openssl/pull/18021"
+    },
+    {
+        "repository_url": "https://github.com/bytedeco/javacpp",
+        "pr_url": "https://github.com/bytedeco/javacpp/pull/704"
+    },
+    {
+        "repository_url": "https://github.com/wasmerio/wasmer",
+        "pr_url": "https://github.com/wasmerio/wasmer/pull/3872"
+    },
+    {
+        "repository_url": "https://github.com/pytorch/cpuinfo",
+        "pr_url": "https://github.com/pytorch/cpuinfo/pull/92"
+    },
+    {
+        "repository_url": "https://github.com/linux-audit/audit-userspace",
+        "pr_url": "https://github.com/linux-audit/audit-userspace/pull/229"
+    },
+    {
+        "repository_url": "https://github.com/libsdl-org/SDL",
+        "pr_url": "https://github.com/libsdl-org/SDL/pull/5763"
+    },
+    {
+        "repository_url": "https://github.com/glennrp/libpng",
+        "pr_url": "https://github.com/glennrp/libpng/pull/516"
+    },
+    {
+        "repository_url": "https://github.com/NVIDIAGameWorks/PhysX",
+        "pr_url": "https://github.com/NVIDIAGameWorks/PhysX/pull/615"
+    },
+    {
+        "repository_url": "https://github.com/threathunters-io/laurel",
+        "pr_url": "https://github.com/threathunters-io/laurel/pull/186"
+    },
+    {
+        "repository_url": "https://github.com/slackhq/nebula",
+        "pr_url": "https://github.com/slackhq/nebula/pull/1003"
+    },
+    {
+        "repository_url": "https://github.com/libgdx/gdx-jnigen",
+        "pr_url": "https://github.com/libgdx/gdx-jnigen/pull/54"
+    },
+    {
+        "repository_url": "https://github.com/GStreamer/gstreamer",
+        "pr_url": "https://github.com/loongarch64/gstreamer/pull/2"
+    },
+    {
+        "repository_url": "https://github.com/influxdata/telegraf",
+        "pr_url": "https://github.com/influxdata/telegraf/pull/14491"
+    },
+    {
+        "repository_url": "https://github.com/lxc/lxcfs",
+        "pr_url": "https://github.com/lxc/lxcfs/pull/622"
+    },
+    {
+        "repository_url": "https://github.com/hugsy/gef",
+        "pr_url": "https://github.com/hugsy/gef/pull/1019"
+    },
+    {
+        "repository_url": "https://github.com/lxc/lxc",
+        "pr_url": "https://github.com/lxc/lxc/pull/4363"
+    },
+    {
+        "repository_url": "https://github.com/esheldon/fitsio",
+        "pr_url": "https://github.com/esheldon/fitsio/pull/382"
+    },
+    {
+        "repository_url": "https://github.com/rspamd/rspamd",
+        "pr_url": "https://github.com/rspamd/rspamd/pull/4704"
+    },
+    {
+        "repository_url": "https://github.com/git-lfs/git-lfs",
+        "pr_url": "https://github.com/git-lfs/git-lfs/pull/5607"
+    },
+    {
+        "repository_url": "https://github.com/hrydgard/ppsspp",
+        "pr_url": "https://github.com/hrydgard/ppsspp/pull/18049"
+    },
+    {
+        "repository_url": "https://github.com/tonistiigi/binfmt",
+        "pr_url": "https://github.com/tonistiigi/binfmt/pull/151"
+    },
+    {
+        "repository_url": "https://github.com/linuxkit/linuxkit",
+        "pr_url": "https://github.com/linuxkit/linuxkit/pull/3969"
+    },
+    {
+        "repository_url": "https://github.com/zyantific/zydis",
+        "pr_url": "https://github.com/zyantific/zydis/pull/462"
+    },
+    {
+        "repository_url": "https://github.com/microsoft/onnxruntime",
+        "pr_url": "https://github.com/microsoft/onnxruntime/pull/17937"
+    },
+    {
+        "repository_url": "https://github.com/grafana/loki",
+        "pr_url": "https://github.com/grafana/loki/pull/10965"
+    },
+    {
+        "repository_url": "https://github.com/JuliaMath/openlibm",
+        "pr_url": "https://github.com/JuliaMath/openlibm/pull/280"
+    },
+    {
+        "repository_url": "https://github.com/mumuy/browser",
+        "pr_url": "https://github.com/mumuy/browser/pull/74"
+    },
+    {
+        "repository_url": "https://github.com/async-profiler/async-profiler",
+        "pr_url": "https://github.com/async-profiler/async-profiler/pull/770"
+    },
+    {
+        "repository_url": "https://github.com/xbmc/xbmc",
+        "pr_url": "https://github.com/xbmc/xbmc/pull/22062"
+    },
+    {
+        "repository_url": "https://github.com/simd-everywhere/simde",
+        "pr_url": "https://github.com/simd-everywhere/simde/pull/960"
+    },
+    {
+        "repository_url": "https://github.com/openMSX/openMSX",
+        "pr_url": "https://github.com/openMSX/openMSX/pull/1538"
+    },
+    {
+        "repository_url": "https://github.com/cisco/ChezScheme",
+        "pr_url": "https://github.com/cisco/ChezScheme/pull/754"
+    },
+    {
+        "repository_url": "https://github.com/aws/aws-lc",
+        "pr_url": "https://github.com/aws/aws-lc/pull/1137"
+    },
+    {
+        "repository_url": "https://github.com/rpm-software-management/libdnf",
+        "pr_url": "https://github.com/rpm-software-management/libdnf/pull/1613"
+    },
+    {
+        "repository_url": "https://github.com/checkpoint-restore/criu",
+        "pr_url": "https://github.com/checkpoint-restore/criu/pull/2183"
+    },
+    {
+        "repository_url": "https://github.com/haskell/cabal",
+        "pr_url": "https://github.com/haskell/cabal/pull/9215"
+    },
+    {
+        "repository_url": "https://github.com/facebook/rocksdb",
+        "pr_url": "https://github.com/facebook/rocksdb/pull/10036"
+    },
+    {
+        "repository_url": "https://github.com/google/cpu_features",
+        "pr_url": "https://github.com/google/cpu_features/pull/314"
+    },
+    {
+        "repository_url": "https://github.com/stressapptest/stressapptest",
+        "pr_url": "https://github.com/stressapptest/stressapptest/pull/109"
+    },
+    {
+        "repository_url": "https://github.com/rui314/mold",
+        "pr_url": "https://github.com/rui314/mold/pull/1081"
+    },
+    {
+        "repository_url": "https://github.com/PCRE2Project/pcre2",
+        "pr_url": "https://github.com/PCRE2Project/pcre2/pull/281"
+    },
+    {
+        "repository_url": "https://github.com/MegEngine/MegPeak",
+        "pr_url": "https://github.com/MegEngine/MegPeak/pull/29"
+    },
+    {
+        "repository_url": "https://github.com/urcu/userspace-rcu",
+        "pr_url": "https://github.com/urcu/userspace-rcu/pull/11"
+    },
+    {
+        "repository_url": "https://github.com/google/double-conversion",
+        "pr_url": "https://github.com/google/double-conversion/     pull/162"
+    },
+    {
+        "repository_url": "https://github.com/FirebirdSQL/firebird",
+        "pr_url": "https://github.com/FirebirdSQL/firebird/pull/7531"
+    },
+    {
+        "repository_url": "https://github.com/containerd/containerd",
+        "pr_url": "https://github.com/containerd/containerd/pull/8361"
+    },
+    {
+        "repository_url": "https://github.com/lyonel/lshw",
+        "pr_url": "https://github.com/lyonel/lshw/pull/96"
+    },
+    {
+        "repository_url": "https://github.com/openzfs/zfs",
+        "pr_url": "https://github.com/openzfs/zfs/pull/13422"
+    },
+    {
+        "repository_url": "https://github.com/opencv/opencv",
+        "pr_url": "https://github.com/opencv/opencv/pull/21833"
+    },
+    {
+        "repository_url": "https://github.com/qtwebkit/qtwebkit",
+        "pr_url": "https://github.com/qtwebkit/qtwebkit/pull/1096"
+    },
+    {
+        "repository_url": "https://github.com/ivmai/bdwgc",
+        "pr_url": "https://github.com/ivmai/bdwgc/pull/363"
+    },
+    {
+        "repository_url": "https://github.com/wiredtiger/wiredtiger",
+        "pr_url": "https://github.com/wiredtiger/wiredtiger/pull/7904"
+    },
+    {
+        "repository_url": "https://github.com/containers/podman",
+        "pr_url": "https://github.com/containers/podman/pull/21481"
+    },
+    {
+        "repository_url": "https://github.com/dylanaraps/neofetch",
+        "pr_url": "https://github.com/dylanaraps/neofetch/pull/2426"
+    },
+    {
+        "repository_url": "https://github.com/eirslett/frontend-maven-plugin",
+        "pr_url": "https://github.com/eirslett/frontend-maven-plugin/pull/1129"
+    },
+    {
+        "repository_url": "https://github.com/hyperic/sigar",
+        "pr_url": "https://github.com/hyperic/sigar/pull/159"
+    },
+    {
+        "repository_url": "https://github.com/kiyo-masui/bitshuffle",
+        "pr_url": "https://github.com/kiyo-masui/bitshuffle/pull/149"
+    },
+    {
+        "repository_url": "https://github.com/VectorCamp/vectorscan",
+        "pr_url": "https://github.com/VectorCamp/vectorscan/pull/166"
+    },
+    {
+        "repository_url": "https://github.com/Fazecast/jSerialComm",
+        "pr_url": "https://github.com/Fazecast/jSerialComm/pull/537"
+    },
+    {
+        "repository_url": "https://github.com/jnr/jffi",
+        "pr_url": "https://github.com/jnr/jffi/pull/125"
+    },
+    {
+        "repository_url": "https://github.com/briansmith/ring",
+        "pr_url": "https://github.com/briansmith/ring/pull/1632"
+    },
+    {
+        "repository_url": "https://github.com/Snaipe/Mimick",
+        "pr_url": "https://github.com/Snaipe/Mimick/pull/34"
+    },
+    {
+        "repository_url": "https://github.com/unikraft/unikraft",
+        "pr_url": "https://github.com/unikraft/unikraft/pull/461"
+    },
+    {
+        "repository_url": "https://github.com/bazelbuild/bazel",
+        "pr_url": "https://github.com/bazelbuild/bazel/pull/20634"
+    },
+    {
+        "repository_url": "https://github.com/icl-utk-edu/papi",
+        "pr_url": "https://github.com/icl-utk-edu/papi/pull/149"
+    },
+    {
+        "repository_url": "https://github.com/xiph/flac",
+        "pr_url": "https://github.com/xiph/flac/pull/642"
+    },
+    {
+        "repository_url": "https://github.com/rhinstaller/anaconda",
+        "pr_url": "https://github.com/rhinstaller/anaconda/pull/5198"
+    },
+    {
+        "repository_url": "https://github.com/qzind/tray",
+        "pr_url": "https://github.com/qzind/tray/pull/1208"
+    }
+]
